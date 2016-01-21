@@ -1,0 +1,28 @@
+name: HarlanWest.com
+favicon: null
+layout_spectrum: 0.29781334288418293
+typography_spectrum: 0.9327634901273996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.30631013796664774
+  lightness: 0.3700900333933532
+  saturation: 0.6791261667385697
+  rhythmicContrast: 0.7163953094277531
+purpose: []
