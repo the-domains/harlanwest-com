@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Harlan West]]></title>
         <description><![CDATA[Harlan West]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/harlanwest-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 00:37:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 00:38:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/harlanwest-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This site is for people who are looking for resources to help deal with Leadership and Spirituality.</p>]]></description>
+            <link>https://thegrid.ai/harlanwest-com/90a75486-3df2-4938-86ad-513befdd59a7/index.html</link>
+            <guid isPermaLink="false">90a75486-3df2-4938-86ad-513befdd59a7</guid>
+            <pubDate>Fri, 22 Jan 2016 00:38:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Does Your Boss Need Some Leadership Development?]]></title>
-            <description><![CDATA[<article><h1>Does Your Boss Need Some Leadership Development?</h1><p>In many organizations there seems to be an expectation that when you reach a certain level you don't need "development opportunities" or training. As I prepare custom programs, the sentiment from upper management in places like this is, "Can you just go fix those people?" However, I've worked with a few [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ec368df95aa1846f9db5f36541dcf2098d4889a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Does Your Boss Need Some Leadership Development?</h1><p>In many organizations there seems to be an expectation that when you reach a certain level you don't need "development opportunities" or training. As I prepare custom programs, the sentiment from upper management in places like this is, "Can you just go fix those people?" However, I've worked with a few [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bae54faac633e86a3100c733b10c68eeca534959.png"></article>]]></description>
             <link>http://www.forbes.com/sites/joefolkman/2016/01/21/does-your-boss-need-some-leadership-development/#5ce53081b4ea</link>
             <guid isPermaLink="false">5d4aac72-a777-43ee-aaf8-7c43656b71e5</guid>
             <pubDate>Fri, 22 Jan 2016 00:37:57 GMT</pubDate>
